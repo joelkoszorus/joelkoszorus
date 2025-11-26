@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Joel 👋
+# Hi, I'm Joel 👋
 Cybersecurity student, security lab builder, and emerging defender focused on turning curiosity into capability. I enjoy creating hands-on projects that explore threat detection, SOC workflows, and real-world attack simulations. My work centers on understanding how modern threats operate — and building the skills to stop them.
 
 I’m developing a strong foundation in networking, information security, penetration testing, and incident response, and I use this GitHub to document my growth through practical, self-driven projects. Whether I’m generating security telemetry, analyzing logs, or automating security tasks, every project reflects my commitment to becoming a well-rounded cybersecurity professional.
