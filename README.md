@@ -9,19 +9,19 @@ My journey studying information technology has led me to develop a passion for c
 
 ## Projects
 - <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a>
-- <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
+- <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a>
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Archietcture and Security Evaluation with Wazuh | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| SIEM Archietcture and Security Evaluation with Wazuh | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
 | SIEM Implementation and Log Analysis with ELK | <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
 | Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
 | SIEM Server Hosting with Raspberry Pi and Ubuntu | <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
-| Incident Response Planning and Execution      | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
-| Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| Incident Response Planning and Execution      | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
+| Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
 
 ## Certifications
 <div>
