@@ -1,14 +1,16 @@
-# Hi, I'm Joel 👋
-I am an ambitious and motivated Cybersecurity & IT student at Bellevue College with a profound interest in technology and a dedication to solving complex problems. I am eager to apply my technical skills and academic knowledge to a challenging role in the industry. I bring a solid foundation with networking, cloud computation, and information security. I am committed to continuous learning and professional growth, looking forward to expanding my horizons.
+# Hi, My name is Joel 👋
+Cybersecurity student, security lab builder, and emerging defender focused on turning curiosity into capability. I enjoy creating hands-on projects that explore threat detection, SOC workflows, and real-world attack simulations. My work centers on understanding how modern threats operate — and building the skills to stop them.
+
+I’m developing a strong foundation in networking, information security, penetration testing, and incident response, and I use this GitHub to document my growth through practical, self-driven projects. Whether I’m generating security telemetry, analyzing logs, or automating security tasks, every project reflects my commitment to becoming a well-rounded cybersecurity professional.
 
 <a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+To build a professional identity grounded in continuous learning, technical depth, and real-world problem-solving — preparing me for a future career in defensive security and security operations.
 
 ## Projects
-- <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a>
+- <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM</a>
 - <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a>
 
 ## Skills
@@ -16,10 +18,10 @@ My journey studying information technology has led me to develop a passion for c
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Archietcture and Security Evaluation with Wazuh | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
-| SIEM Implementation and Log Analysis with ELK | <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
-| Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
+| SIEM Implementation and Log Analysis with ELK | <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
+| Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
-| SIEM Server Hosting with Raspberry Pi and Ubuntu | <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a> |
+| SIEM Server Hosting with Raspberry Pi and Ubuntu | <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
 | Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
 
