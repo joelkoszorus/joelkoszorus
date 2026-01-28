@@ -10,7 +10,7 @@ I’m developing a strong foundation in networking, information security, penetr
 To build a professional identity grounded in continuous learning, technical depth, and real-world problem-solving — preparing me for a future career in defensive security and security operations.
 
 ## Projects
-- <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM</a>
+- <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK SIEM</a>
 - <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a>
 
 ## Skills
@@ -28,29 +28,37 @@ To build a professional identity grounded in continuous learning, technical dept
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Certiport%20Cybersecurity-FF6F00?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certiport%20Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA:%20Enterprise%20Networking,%20Security,%20and%20Automation-0077B5?&style=for-the-badge&logo=cisco&logoColor=white)]" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]" />
-<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 <div>
 
 ## Tools
 
-### SIEM
+### Security Monitoring & Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/ELK%20Stack-5C2D91?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0078D4?style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AbuseIPDB-003366?style=for-the-badge&logo=ipfs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" />
 </div>
 
 ### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Masscan-444444?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
 
-### SOAR
+### DFIR
 <div>
     <img src="https://img.shields.io/badge/-Shuffle-4CAF50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Autopsy-003366?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-F39C12?style=for-the-badge&logo=hive&logoColor=white" />
 </div>
 
 
