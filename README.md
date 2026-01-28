@@ -3,7 +3,8 @@ Cybersecurity student, security lab builder, and emerging defender focused on tu
 
 I’m developing a strong foundation in networking, information security, penetration testing, and incident response, and I use this GitHub to document my growth through practical, self-driven projects. Whether I’m generating security telemetry, analyzing logs, or automating security tasks, every project reflects my commitment to becoming a well-rounded cybersecurity professional.
 
-<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/joelkoszorus"><img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 ## Objective
 
