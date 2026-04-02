@@ -46,7 +46,7 @@ Built and deployed a full ELK stack on a Raspberry Pi to ingest, parse, and visu
 ---
 
 ### ⚙️ [Automated Incident Detection](https://github.com/joelkoszorus/Automated-Incident-Detection) — SOC automation pipeline
-> `Wazuh` · `Shuffle SOAR` · `TheHive` · `Python`
+> `Wazuh` · `Shuffle SOAR` · `TheHive`
 
 Designed and deployed an end-to-end automated incident detection and response pipeline. Wazuh generates alerts, Shuffle SOAR orchestrates the response workflow, and TheHive handles case management — all wired together without manual handoffs.
 
@@ -55,7 +55,7 @@ Designed and deployed an end-to-end automated incident detection and response pi
 <details>
 <summary>Tools used</summary>
 
-`Wazuh` `Shuffle SOAR` `TheHive` `VirusTotal` `AbuseIPDB` `Python`
+`Wazuh` `Shuffle SOAR` `TheHive` `VirusTotal` `AbuseIPDB`
 
 </details>
 
