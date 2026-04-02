@@ -5,8 +5,7 @@ My recent projects have provided me great experience with industry common tools,
 
 I am studying diligently in my final year of schooling, working on meaningful projects, and learning from many great people in academia and from industry professionals. I’m excited about where cybersecurity is headed and motivated by the opportunity to grow, contribute, and take on new challenges as I move forward in the field.
 
-<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/joelkoszorus"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43NzJ2MjAuNDUxQzAgMjMuMjI3Ljc5MiAyNCAyLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCwyMy4yMjcgMjQgMjIuMjIzVjEuNzcyQzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC0uMDAxeiIvPjwvc3ZnPg==" /></a>
 
 ---
 
