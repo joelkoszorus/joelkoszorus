@@ -76,9 +76,9 @@ Designed and deployed an end-to-end automated incident detection and response pi
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/Certiport%20Cybersecurity-FF6F00?style=flat-square&logo=codeforces&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/AWS%20Cloud%20Architecting-FF9900.svg?logo=aws&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Certiport%20Cloud%20Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/CCNA%3A%20Enterprise%20Networking%2C%20Security%20%26%20Automation-0077B5?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Certiport%20IT%20Specialist%20%7C%20Cybersecurity-E84545?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20-%20Cloud%20Architecting-FF9900.svg?logo=aws&logoColor=white&style=for-the-badge" /></td>
+<img src="https://img.shields.io/badge/Certiport%20IT%20Specialist%20%7C%20Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CCNA%20%7C%20Network%20Academy-0077B5?style=for-the-badge&logo=cisco&logoColor=white" /></td>
 
 
