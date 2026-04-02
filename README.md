@@ -30,7 +30,7 @@ Supports native EVE NDJSON and Elasticsearch/Kibana export formats. Works as a b
 
 ---
 
-### 📊 [ELK for SIEM](https://github.com/joelkoszorus/ELK-for-SIEM) — Self-hosted SIEM on Raspberry Pi
+### 📊 [Pi SIEM](https://github.com/joelkoszorus/Pi-SIEM) — Self-hosted SIEM on Raspberry Pi
 > `Elasticsearch` · `Logstash` · `Kibana` · `Suricata` · `Wireshark`
 
 Built and deployed a full ELK stack on a Raspberry Pi to ingest, parse, and visualize network security telemetry. Configured Suricata for live traffic analysis and developed Kibana dashboards for monitoring and attack detection.
