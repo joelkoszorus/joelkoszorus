@@ -1,66 +1,85 @@
-# Hi, I'm Joel 👋
-Cybersecurity student, security lab builder, and emerging defender focused on turning curiosity into capability. I enjoy creating hands-on projects that explore threat detection, SOC workflows, and real-world attack simulations. My work centers on understanding how modern threats operate — and building the skills to stop them.
+# Joel Koszorus
+My path into IT and cybersecurity began through my work with electrical circuits, limited energy systems and humble home networking. This quickly led to more research deeper into the field, learning as much as I could through free online resources, and then deciding to pursue a higher education. As a IT and cybersecurity student I study how systems operate, how networks are built, and how data is protected in real-world environments. Additionally, I enjoy my own time working with networks, security tools, and training labs to better understand common issues, spot patterns, and improve overall security. I prefer learning by doing—building projects, testing configurations, and hands-on practice both academic and independant.
 
-I’m developing a strong foundation in networking, information security, penetration testing, and incident response, and I use this GitHub to document my growth through practical, self-driven projects. Whether I’m generating security telemetry, analyzing logs, or automating security tasks, every project reflects my commitment to becoming a well-rounded cybersecurity professional.
+My recent projects have provided me great experience with industry common tools, methods, and systems to advance my skills relating to security analysis. They have helped me familiarize myself with topics such as incident detection and response, security monitoring and log analysis, vulnerabilities and risk, and practical security workflows.
 
-<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/joelkoszorus"><img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+I am studying diligently in my final year of schooling, working on meaningful projects, and learning from many great people in academia and from industry professionals. I’m excited about where cybersecurity is headed and motivated by the opportunity to grow, contribute, and take on new challenges as I move forward in the field.
 
-## Objective
+<a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/joelkoszorus"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
 
-To build a professional identity grounded in continuous learning, technical depth, and real-world problem-solving — preparing me for a future career in defensive security and security operations.
+---
 
 ## Projects
-- <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK SIEM</a>
-- <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a>
 
-## Skills
+### 🔍 [snitch](https://github.com/joelkoszorus/snitch) — Suricata EVE triage tool
+> `Python` · `CLI` · `Detection Engineering` · `Suricata`
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Archietcture and Security Evaluation with Wazuh | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
-| SIEM Implementation and Log Analysis with ELK | <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
-| Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
-| SIEM Server Hosting with Raspberry Pi and Ubuntu | <a href="https://github.com/joelkoszorus/ELK-for-SIEM">ELK for SIEM - ELK</a> |
-| Incident Response Planning and Execution      | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
-| Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/Automated-Incident-Detection">Automated Incident Detection</a> |
+Suricata's EVE JSON output is noisy. `snitch` cuts through that noise and surfaces what matters for triage — alert signatures, CVE identifiers, network context, and IOCs — in a clean, readable format.
+
+Supports native EVE NDJSON and Elasticsearch/Kibana export formats. Works as a bare command after install, with filtering by signature, JSON output mode, and event limiting built in. CI includes CodeQL static analysis and Gitleaks secret scanning on every push.
+
+**Skills developed:** EVE JSON parsing, IOC extraction logic, CLI design, Python packaging, CI/CD with GitHub Actions, static analysis workflows
+
+<details>
+<summary>Tools used</summary>
+
+`Suricata` `Python` `GitHub Actions` `CodeQL` `Elasticsearch`
+
+</details>
+
+---
+
+### 📊 [ELK for SIEM](https://github.com/joelkoszorus/ELK-for-SIEM) — Self-hosted SIEM on Raspberry Pi
+> `Elasticsearch` · `Logstash` · `Kibana` · `Suricata` · `Wireshark`
+
+Built and deployed a full ELK stack on a Raspberry Pi to ingest, parse, and visualize network security telemetry. Configured Suricata for live traffic analysis and developed Kibana dashboards for monitoring and attack detection.
+
+**Skills developed:** SIEM architecture, log pipeline configuration, network traffic analysis, dashboard design, Linux server administration, Raspberry Pi hosting
+
+<details>
+<summary>Tools used</summary>
+
+`Elasticsearch` `Logstash` `Kibana` `Suricata` `Wireshark` `Nmap` `tcpdump` `Ubuntu`
+
+</details>
+
+---
+
+### ⚙️ [Automated Incident Detection](https://github.com/joelkoszorus/Automated-Incident-Detection) — SOC automation pipeline
+> `Wazuh` · `Shuffle SOAR` · `TheHive` · `Python`
+
+Designed and deployed an end-to-end automated incident detection and response pipeline. Wazuh generates alerts, Shuffle SOAR orchestrates the response workflow, and TheHive handles case management — all wired together without manual handoffs.
+
+**Skills developed:** SIEM deployment and tuning, SOAR playbook design, case management, incident response workflow, alert correlation, security automation
+
+<details>
+<summary>Tools used</summary>
+
+`Wazuh` `Shuffle SOAR` `TheHive` `VirusTotal` `AbuseIPDB` `Python`
+
+</details>
+
+---
+
+## Skills at a Glance
+
+| Domain | Tools & Technologies |
+|---|---|
+| SIEM & Log Analysis | Elastic Stack (ELK), Wazuh |
+| Network Monitoring | Suricata, Wireshark, Nmap, tcpdump, Masscan |
+| SOAR & Case Management | Shuffle, TheHive |
+| Threat Intelligence | VirusTotal, AbuseIPDB, Shodan |
+| Scripting & Tooling | Python, Bash |
+| Infrastructure | Linux (Ubuntu), Raspberry Pi, GitHub Actions |
+
+---
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/Certiport%20Cybersecurity-FF6F00?style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certiport%20Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA:%20Enterprise%20Networking,%20Security,%20and%20Automation-0077B5?&style=for-the-badge&logo=cisco&logoColor=white)]" />
 
-<div>
-
-## Tools
-
-### Security Monitoring & Threat Intelligence
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-0078D4?style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=redhat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AbuseIPDB-003366?style=for-the-badge&logo=ipfs&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" />
-</div>
-
-### Networking
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Masscan-444444?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</div>
-
-### DFIR
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle-4CAF50?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Autopsy-003366?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-F39C12?style=for-the-badge&logo=hive&logoColor=white" />
-</div>
-
+<img src="https://img.shields.io/badge/Certiport%20Cybersecurity-FF6F00?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20Cloud%20Architecting-FF9900.svg?logo=aws&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Certiport%20Cloud%20Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CCNA%3A%20Enterprise%20Networking%2C%20Security%20%26%20Automation-0077B5?style=flat-square&logo=cisco&logoColor=white" />
 
 
