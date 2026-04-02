@@ -24,7 +24,7 @@ Supports native EVE NDJSON and Elasticsearch/Kibana export formats. Works as a b
 <details>
 <summary>Tools used</summary>
 
-`Suricata` `Python` `GitHub Actions` `CodeQL` `Elasticsearch`
+`Suricata` `Python` `Bash` `GitHub Actions` `CodeQL` `Elasticsearch`
 
 </details>
 
