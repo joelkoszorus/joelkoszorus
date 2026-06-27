@@ -11,7 +11,7 @@ I am studying diligently in my final year of schooling, working on meaningful pr
 
 ## Projects
 
-### 🛠️ [Sprint Scripts](https://github.com/joelkoszorus/sprint_scripts) — Scripting & automation for security administration
+### 🛠️ [Sprint Scripts](https://github.com/joelkoszorus/sprint_scripts) - Scripting & automation for security administration
 > `Python` · `Ansible` · `Bash` · `AWS`
 
 A portfolio of self-contained tooling for security and systems administration, each project written to solve a practical problem and stand on its own as a usable tool: an SSH `auth.log` failed-login parser, a host telemetry gatherer (CPU/RAM/disk/network/uptime to screen, CSV, or JSON), a NetRecon tool pairing Nmap port scanning with IP geolocation, a configurable HealthMon system-health monitor with threshold alerts to syslog, and an Ansible deployment automating HealthMon across multiple AWS servers.
@@ -29,7 +29,7 @@ Every push and PR runs an automated GitHub Actions pipeline covering the whole r
 
 ---
 
-### 🔍 [Snitch](https://github.com/joelkoszorus/snitch) — Suricata EVE triage tool
+### 🔍 [Snitch](https://github.com/joelkoszorus/snitch) - Suricata EVE triage tool
 > `Python` · `CLI` · `Detection Engineering` · `Suricata`
 
 Suricata's EVE JSON output is noisy. `snitch` cuts through that noise and surfaces what matters for triage — alert signatures, CVE identifiers, network context, and IOCs — in a clean, readable format.
@@ -47,7 +47,7 @@ Supports native EVE NDJSON and Elasticsearch/Kibana export formats. Works as a b
 
 ---
 
-### 📊 [Pi SIEM](https://github.com/joelkoszorus/Pi-SIEM) — Self-hosted SIEM on Raspberry Pi
+### 📊 [Pi SIEM](https://github.com/joelkoszorus/Pi-SIEM) - Self-hosted SIEM on Raspberry Pi
 > `Elasticsearch` · `Logstash` · `Kibana` · `Suricata` · `Wireshark`
 
 Built and deployed a full ELK stack on a Raspberry Pi to ingest, parse, and visualize network security telemetry. Configured Suricata for live traffic analysis and developed Kibana dashboards for monitoring and attack detection.
@@ -63,7 +63,7 @@ Built and deployed a full ELK stack on a Raspberry Pi to ingest, parse, and visu
 
 ---
 
-### ⚙️ [Automated Incident Detection](https://github.com/joelkoszorus/Automated-Incident-Detection) — SOC automation pipeline
+### ⚙️ [Automated Incident Detection](https://github.com/joelkoszorus/Automated-Incident-Detection) - SOC automation pipeline
 > `Wazuh` · `Shuffle SOAR` · `TheHive`
 
 Designed and deployed an end-to-end automated incident detection and response pipeline. Wazuh generates alerts, Shuffle SOAR orchestrates the response workflow, and TheHive handles case management — all wired together without manual handoffs.
